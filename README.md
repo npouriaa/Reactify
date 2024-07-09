@@ -1,2 +1,38 @@
-# Reactify
-Reactify is a social media app that allows users to connect and interact with each other through posts, likes, comments, and direct messages.
+# اپلیکیشن Reactify
+اپلیکیشن Reactify یک اپلیکیشن شبکه اجتماعی است که به کاربران امکان اتصال و تعامل با یکدیگر از طریق پست ها، لایک‌ ها، نظرات و پیام‌ ها را فراهم می‌کند.
+
+ویژگی‌های کلیدی Reactify شامل:
+<div style="display: flex; flex-direction: column; " >
+  <p>پروفایل کاربر: کاربران می‌توانند پروفایل با اطلاعات شخصی و تصویر پروفایل خود ایجاد کنند.</p>
+  <p>صفحه پست ها: کاربران می‌توانند از طریق صفحه پست ها پست های افراد را مشاهده کنند.</p>
+  <p>ایجاد پست: کاربران می‌توانند پست‌های متنی یا عکسی یا ویدیویی ایجاد و با کاربران به اشتراک بگذارند.</p>
+  <p>لایک و نظرات: کاربران می‌توانند با لایک و نظر دادن به پست‌ها با آن‌ها تعامل کنند.</p>
+  <p>پیام‌ ها: کاربران می‌توانند پیام‌های خصوصی به یکدیگر ارسال کنند.</p>
+  <p>پروفایل کاربر: کاربران می‌توانند پروفایل با اطلاعات شخصی و تصویر پروفایل خود ایجاد کنند.</p>
+</div>
+
+پکیج‌های استفاده شده در اپلیکیشن Reactify شامل:
+<div style="display: flex; flex-direction: column; " >
+  <p>۱. React</p>
+  <p>۲. Tailwind CSS</p>
+  <p>۳. Ant Design</p>
+  <p>۴. vidstack/react (برای نمایش ویدیوها)</p>
+  <p>۵. React Router Dom</p>
+  <p>۶. UUID</p>
+  <p>۷. Firebase (برای بخش بکند)</p>
+</div>
+
+<div style="display: flex; flex-direction: column; " >
+  <p>ین پکیج‌ها برای ایجاد و اجرای امکانات و ویژگی‌های مختلف اپلیکیشن مورد استفاده قرار گرفته‌اند، مانند احراز هویت کاربر، ارسال پست، لایک و نظردهی روی پست‌ها، دنبال کردن سایر کاربران و پیام‌رسانی به صورت real-time در یک محیط امن.</p>
+  <p>برای دیدن جزئیات بیشتر, سورس کد و بررسی رزومه از طریق <a target="_blank" href="https://t.me/npouriaa">تلگرام</a> یا <a target="_blank" href="https://www.linkedin.com/in/npouriaa">لینکدین</a> با من در ارتباط باشید.</p>
+</div>
+
+<div>
+<img src="./screen1.png" alt="My Image">
+<img src="./screen2.png" alt="My Image">
+<img src="./screen3.png" alt="My Image">
+<img src="./screen4.png" alt="My Image">
+</div>
+
+
+# Reactify App
