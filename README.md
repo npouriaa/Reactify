@@ -26,6 +26,8 @@
   <p>برای دیدن جزئیات بیشتر, سورس کد و بررسی رزومه از طریق <a target="_blank" href="https://t.me/npouriaa">تلگرام</a> یا <a target="_blank" href="https://www.linkedin.com/in/npouriaa">لینکدین</a> با من در ارتباط باشید.</p>
 </div>
 
+اگر از ایران قصد به استفاده از وبسایت دارید حتما با فیلترشکن وارد وبسایت شوید.
+
 <div>
 <img src="./screen1.png" alt="My Image">
 <img src="./screen2.png" alt="My Image">
@@ -61,3 +63,5 @@ The used packages in the Reactify app are:
   <p>These packages are used to implement various features of the application, such as user authentication, post uploading, liking and commenting on posts, following other users, and real-time messaging in a secure environment.</p>
   <p>For more details, source code, and resume review, please contact me via <a target="_blank" href="https://t.me/npouriaa">Telegram</a> or <a target="_blank" href="https://www.linkedin.com/in/npouriaa">Linkedin</a> </p>
 </div>
+
+If you want to use this website from Iran, Don't forget to turn on your VPN.
