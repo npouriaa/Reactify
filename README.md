@@ -23,7 +23,7 @@
 
 <div style="display: flex; flex-direction: column; " >
   <p>ین پکیج‌ها برای ایجاد و اجرای امکانات و ویژگی‌های مختلف اپلیکیشن مورد استفاده قرار گرفته‌اند، مانند احراز هویت کاربر، ارسال پست، لایک و نظردهی روی پست‌ها، دنبال کردن سایر کاربران و پیام‌رسانی به صورت real-time در یک محیط امن.</p>
-  <p>برای دیدن جزئیات بیشتر, سورس کد و بررسی رزومه از طریق <a target="_blank" href="https://t.me/npouriaa">تلگرام</a> یا <a target="_blank" href="https://www.linkedin.com/in/npouriaa">لینکدین</a> با من در ارتباط باشید.</p>
+  <p>برای دیدن جزئیات بیشتر, سورس کد و بررسی رزومه از طریق <a target="_blank" href="https://t.me/npouriaa">تلگرام</a> یا <a target="_blank" href="https://www.linkedin.com/in/npouriaa">لینکدین</a> با من در ارتباط باشید تا در ریپازیتوری اصلی collaborate شوید. </p>
 </div>
 
 اگر از ایران قصد به استفاده از وبسایت دارید حتما با فیلترشکن وارد وبسایت شوید.
@@ -61,7 +61,7 @@ The used packages in the Reactify app are:
 
 <div style="display: flex; flex-direction: column; " >
   <p>These packages are used to implement various features of the application, such as user authentication, post uploading, liking and commenting on posts, following other users, and real-time messaging in a secure environment.</p>
-  <p>For more details, source code, and resume review, please contact me via <a target="_blank" href="https://t.me/npouriaa">Telegram</a> or <a target="_blank" href="https://www.linkedin.com/in/npouriaa">Linkedin</a> </p>
+  <p>For more details, source code, and resume review, please contact me via <a target="_blank" href="https://t.me/npouriaa">Telegram</a> or <a target="_blank" href="https://www.linkedin.com/in/npouriaa">Linkedin</a> for adding to the main repository as a collaborator.</p>
 </div>
 
 If you want to use this website from Iran, don't forget to turn on your VPN.
