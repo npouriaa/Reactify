@@ -31,12 +31,12 @@
 
 اگر از ایران قصد به استفاده از وبسایت دارید حتما با فیلترشکن وارد وبسایت شوید.
 
-<div>
-<img src="./1.png" alt="Reactify">
-<img src="./2.png" alt="Reactify">
-<img src="./3.png" alt="Reactify">
-<img src="./4.png" alt="Reactify">
-<img src="./5.png" alt="Reactify">
+<div style="display: flex; flex-direction: column; gap: 2rem;">
+    <img style="height: 300px;" src="./1.png" alt="Reactify" />
+    <img style="height: 300px;" src="./2.png" alt="Reactify" />
+    <img style="height: 300px;" src="./3.png" alt="Reactify" />
+    <img style="height: 300px;" src="./4.png" alt="Reactify" />
+    <img style="height: 300px;" src="./5.png" alt="Reactify" />
 </div>
 
 # Reactify App
