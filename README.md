@@ -64,4 +64,4 @@ The used packages in the Reactify app are:
   <p>For more details, source code, and resume review, please contact me via <a target="_blank" href="https://t.me/npouriaa">Telegram</a> or <a target="_blank" href="https://www.linkedin.com/in/npouriaa">Linkedin</a> </p>
 </div>
 
-If you want to use this website from Iran, Don't forget to turn on your VPN.
+If you want to use this website from Iran, don't forget to turn on your VPN.
